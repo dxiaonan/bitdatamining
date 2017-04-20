@@ -1,0 +1,192 @@
+yes adult 534817 39.2 88 20 cool normal pale cyanotic <3 seconds intermittent mild pain absent slight slight none 5 absent other 50 85 cloudy 2 was euthanized no 2208 0 0 no
+no adult 530334 38.3 40 24 normal normal pale pink <3 seconds intermittent mild pain hypomotile none slight none 5 normal nomal 33 6.7 serosanguinous 2.6 lived no 0 0 0 yes
+yes young 5290409 39.1 164 84 cold normal dark cyanotic >3 seconds depressed absent severe none >1 liter 5 reduced distended large intestine 48 7.2 serosanguinous 5.3 died yes 2208 0 0 yes
+yes adult 526802 37.9 48 16 normal normal normal pink <3 seconds intermittent mild pain hypomotile oderate none none 5 reduced distended large intestine 37 7 serosanguinous 2.6 lived yes 3124 0 0 no
+no adult 530051 38.1 80 36 cool absent pale pink <3 seconds intermittent severe pain absent severe slight none 5 reduced distended large intestine 38 6.2 serosanguinous 2.6 was euthanized yes 3205 0 0 no
+no young 5299629 38.3 90 28 normal normal normal pink <3 seconds continuous severe pain hypomotile none slight none 5 reduced distended large intestine 40 6.2 clear 2.2 lived no 0 0 0 yes
+yes adult 528548 38.1 66 12 cool reduced bright red/injected <3 seconds intermittent mild pain hypomotile none slight none 3 increase distended large intestine 44 6 cloudy 3.6 lived yes 2124 0 0 yes
+no adult 527927 39.1 72 52 warm normal bright pink <3 seconds depressed hypermotile slight none none 5 absent distended small intestine 50 7.8 serosanguinous 2.6 lived yes 2111 0 0 no
+yes adult 528031 37.2 42 12 warm normal normal pink <3 seconds intermittent mild pain hypomotile oderate significant none 5 absent distended large intestine 46 7 serosanguinous 2.6 lived no 4124 0 0 no
+no young 5291329 38 92 28 normal normal bright pink <3 seconds alert, no pain hypomotile slight significant none 7.2 normal nomal 37 6.1 clear 2.6 died no 0 0 0 yes
+yes adult 534917 38.2 76 28 cool normal normal pink <3 seconds intermittent mild pain absent none slight >1 liter 5 absent distended small intestine 46 81 clear 2 lived yes 2112 0 0 no
+yes adult 530233 37.6 96 48 cool normal pale cyanotic <3 seconds continuous severe pain hypomotile oderate slight <1 liter 4.5 absent distended large intestine 45 6.8 serosanguinous 2.6 died yes 3207 0 0 no
+yes young 5301219 38.1 128 36 cool reduced pale cyanotic >3 seconds intermittent severe pain absent oderate significant none 5 absent distended large intestine 53 7.8 serosanguinous 4.7 died no 1400 0 0 yes
+yes adult 5290481 37.6 64 21 normal normal bright pink <3 seconds depressed hypomotile none none none 5 increase distended large intestine 40 7 clear 2.6 lived yes 4205 0 0 yes
+yes adult 530157 39.9 72 60 normal normal bright red/injected >3 seconds continuous severe pain absent severe significant none 5 absent distended small intestine 46 6.1 cloudy 2.6 lived yes 2111 0 0 no
+no adult 529340 38.4 48 16 normal normal normal pink <3 seconds alert, no pain hypomotile none slight <1 liter 5.5 absent firm feces in the large intestine 49 6.8 serosanguinous 2.6 lived no 0 0 0 no
+yes adult 533692 38.1 60 12 cool reduced pale pink <3 seconds intermittent mild pain absent oderate significant >1 liter 2 absent distended large intestine 51 65 serosanguinous 2.6 lived yes 3111 0 0 no
+yes adult 530526 38.3 72 30 cold reduced pale pink >3 seconds intermittent mild pain hypomotile oderate slight none 5 reduced distended large intestine 43 7 cloudy 3.9 lived yes 3111 0 0 yes
+yes adult 528653 37.8 48 12 cool normal normal pink <3 seconds intermittent mild pain hypomotile slight none none 5 normal firm feces in the large intestine 37 5.5 cloudy 1.3 lived no 4122 0 0 yes
+no adult 529475 37.7 96 30 cool reduced pale cyanotic >3 seconds continuous severe pain absent severe significant >1 liter 4 absent distended large intestine 66 7.5 serosanguinous 2.6 died yes 4205 0 0 no
+no adult 530242 37.2 108 12 cool reduced pale cyanotic >3 seconds depressed absent slight slight <1 liter 6 reduced firm feces in the large intestine 52 8.2 serosanguinous 7.4 was euthanized yes 2207 0 0 yes
+yes adult 529427 37.2 60 28 warm normal normal pink <3 seconds intermittent mild pain hypomotile oderate slight none 5 absent distended large intestine 43 6.6 serosanguinous 2.6 lived yes 2209 0 0 no
+yes adult 529663 38.2 64 28 normal normal normal pink <3 seconds intermittent mild pain hypermotile none slight none 5 absent distended small intestine 49 8.6 cloudy 6.6 lived yes 2208 0 0 yes
+yes adult 529796 38.1 100 30 cool reduced pale cyanotic >3 seconds continuous severe pain absent severe significant <1 liter 5 absent distended small intestine 52 6.6 serosanguinous 2.6 lived yes 1124 0 0 no
+no adult 529493 38.3 112 16 cool reduced bright red/injected >3 seconds intermittent mild pain hypomotile none none >1 liter 5 absent distended large intestine 51 6 cloudy 1 was euthanized no 5205 0 0 yes
+yes adult 533847 37.8 72 28 cool reduced normal pink <3 seconds continuous severe pain hypomotile none slight none 5 normal nomal 56 80 clear 2 lived yes 3111 0 0 no
+no adult 528996 38.6 52 28 normal normal normal pink <3 seconds intermittent mild pain hypomotile slight none none 5 normal firm feces in the large intestine 32 6.6 clear 5 lived no 0 0 0 yes
+yes adult 529498 38.1 88 28 cool reduced dark cyanotic >3 seconds continuous severe pain hypomotile oderate none <1 liter 5 absent distended large intestine 63 6.5 serosanguinous 2.6 died yes 4205 0 0 no
+no adult 530301 38 60 12 cool normal pale pink <3 seconds intermittent mild pain hypomotile none none none 5 increase other 47 7 serosanguinous 2.6 lived no 3111 0 0 no
+yes adult 534069 38.1 120 28 cool absent pale cyanotic <3 seconds intermittent severe pain absent severe none none 5 absent distended large intestine 52 67 cloudy 2 was euthanized yes 3205 0 0 no
+yes adult 535407 35.4 140 24 cool reduced pale cyanotic >3 seconds intermittent severe pain absent none slight none 5 absent distended large intestine 57 69 serosanguinous 2 was euthanized yes 3205 0 0 no
+no adult 529827 38.1 120 28 cold reduced pale cyanotic >3 seconds continuous severe pain absent severe none none 5 absent distended large intestine 60 6.5 serosanguinous 2.6 died yes 3205 0 0 no
+yes adult 529888 37.9 60 15 cool normal pale cyanotic >3 seconds continuous severe pain absent severe slight >1 liter 5 absent distended large intestine 65 7.5 serosanguinous 2.6 lived yes 2305 0 0 yes
+no adult 529821 37.5 48 16 normal normal normal pink <3 seconds alert, no pain hypermotile none none none 5 normal distended large intestine 37 6.5 serosanguinous 2.6 lived no 0 0 0 no
+yes adult 528890 38.9 80 44 cool reduced pale pink >3 seconds depressed hypomotile oderate slight >1 liter 7 reduced nomal 54 6.5 serosanguinous 2.6 died yes 7111 0 0 no
+no adult 529642 37.2 84 48 cool reduced bright red/injected >3 seconds intermittent severe pain hypermotile slight none >1 liter 5 increase nomal 73 5.5 cloudy 4.1 died no 4300 0 0 yes
+no adult 529766 38.6 46 28 normal normal bright pink <3 seconds alert, no pain hypomotile slight none none 5 absent other 49 9.1 clear 1.6 lived no 3111 0 0 yes
+no adult 529461 40.3 114 36 cool reduced normal pink >3 seconds depressed hypomotile oderate slight none 7 normal distended large intestine 57 8.1 serosanguinous 4.5 was euthanized yes 7400 0 0 yes
+no adult 530438 37.8 48 32 normal normal pale pink <3 seconds depressed hypermotile none none none 5 absent distended large intestine 37 6.7 serosanguinous 2.6 lived no 2124 0 0 no
+no adult 527957 38.5 60 28 warm increase normal pink <3 seconds alert, no pain normal slight slight none 5 normal nomal 44 7.7 serosanguinous 2.6 lived no 0 0 0 no
+yes adult 528630 37.8 88 22 warm normal bright pink <3 seconds intermittent mild pain hypomotile none slight none 5 absent distended large intestine 64 8 clear 6 died yes 3205 0 0 yes
+no adult 534293 38.2 130 16 cold reduced pale cyanotic >3 seconds depressed absent severe none none 5 absent distended large intestine 65 82 cloudy 2 was euthanized no 2209 1400 0 no
+yes adult 529667 39 64 36 cool normal pale cyanotic >3 seconds intermittent mild pain hypomotile slight none >1 liter 7 absent distended large intestine 44 7.5 serosanguinous 5 lived yes 2113 0 0 yes
+yes adult 534885 38.1 60 36 cool normal pale pink <3 seconds intermittent mild pain hypomotile slight none none 5 reduced distended small intestine 26 72 cloudy 1 lived yes 2208 0 0 no
+no adult 534784 37.9 72 28 normal normal bright red/injected >3 seconds intermittent mild pain hypomotile none none <1 liter 2 reduced distended small intestine 58 74 clear 2 lived yes 2322 0 0 no
+no adult 528931 38.4 54 24 normal normal normal pink <3 seconds alert, no pain hypomotile none slight none 5 reduced other 49 7.2 clear 2.6 lived no 3111 0 0 yes
+no adult 530276 38 48 12 normal normal normal pink <3 seconds alert, no pain hypomotile none none none 5 reduced other 42 6.3 cloudy 4.1 lived no 3111 0 0 yes
+no adult 528214 37 60 20 cool normal normal pink <3 seconds intermittent mild pain hypomotile oderate slight >1 liter 4.5 absent distended small intestine 43 7.6 serosanguinous 2.6 was euthanized yes 2209 0 0 yes
+yes adult 529424 37.8 48 28 normal normal normal pink <3 seconds alert, no pain normal none slight none 5 normal nomal 46 5.9 cloudy 7 lived no 0 0 0 yes
+yes adult 528469 38.1 52 24 normal normal bright red/injected <3 seconds intermittent severe pain hypomotile none slight <1 liter 7 normal distended large intestine 54 7.5 cloudy 2.6 died yes 2112 0 0 yes
+no adult 534753 38.7 52 20 warm normal normal pink <3 seconds alert, no pain hypermotile none none none 5 normal nomal 33 77 serosanguinous 2.6 lived no 0 0 0 no
+yes adult 527463 37.5 96 18 normal reduced dark cyanotic >3 seconds intermittent mild pain absent slight slight <1 liter 5 absent distended small intestine 69 8.9 serosanguinous 2.6 lived yes 2208 0 0 yes
+yes adult 527518 36.4 98 35 cool reduced pale cyanotic <3 seconds intermittent severe pain hypomotile slight slight none 5 absent distended small intestine 47 6.4 serosanguinous 3.6 died yes 2205 0 0 yes
+yes adult 534756 37.3 40 28 cool reduced normal pink <3 seconds depressed hypomotile slight significant none 5 reduced distended large intestine 36 7.35 serosanguinous 2 lived yes 3111 0 0 no
+yes adult 529849 37.8 60 80 normal reduced bright pink >3 seconds depressed hypomotile oderate slight >1 liter 5.5 absent distended large intestine 40 4.5 cloudy 2.6 lived yes 5206 0 0 yes
+no adult 529304 38 54 30 warm reduced pale pink ? intermittent mild pain hypermotile slight slight >1 liter 5 absent distended small intestine 45 6.2 serosanguinous 2.6 lived no 400 0 0 no
+yes adult 529388 38.1 88 40 cool reduced pale cyanotic >3 seconds continuous severe pain absent oderate significant none 5 absent distended large intestine 50 7.7 serosanguinous 1.4 died yes 4205 0 0 yes
+no adult 529703 39 64 40 normal normal bright red/injected <3 seconds intermittent mild pain hypomotile slight slight none 5 reduced firm feces in the large intestine 42 7.5 cloudy 2.3 lived no 5000 0 0 yes
+no adult 529461 40.3 114 36 cool reduced normal pink >3 seconds depressed hypomotile oderate slight none 7 normal distended large intestine 57 8.1 serosanguinous 4.5 died yes 3205 0 0 yes
+no adult 530251 38.8 50 20 cool normal normal pink <3 seconds alert, no pain hypermotile none slight none 5 reduced nomal 42 6.2 serosanguinous 2.6 lived no 0 0 0 no
+no adult 528729 37.5 48 30 cold normal pale pink <3 seconds intermittent mild pain normal none none none 5 normal nomal 48 8.6 serosanguinous 2.6 lived no 0 0 0 no
+yes adult 535158 37.3 48 20 cool normal bright pink <3 seconds intermittent mild pain hypomotile oderate slight none 5 reduced distended large intestine 41 69 serosanguinous 2.6 lived yes 3205 0 0 no
+yes adult 534145 38.1 88 32 cool reduced pale cyanotic <3 seconds depressed hypomotile oderate slight <1 liter 1 absent distended large intestine 55 60 serosanguinous 2.6 was euthanized no 3205 0 0 no
+no adult 534135 37.7 44 40 warm normal pale pink <3 seconds alert, no pain hypomotile slight none none 5 normal distended large intestine 41 60 serosanguinous 2.6 lived no 0 0 0 no
+no adult 530002 39.6 108 51 cool reduced dark cyanotic >3 seconds depressed absent oderate none >1 liter 5 reduced distended large intestine 59 8 cloudy 2.6 lived no 4300 0 0 yes
+yes young 5292489 38 140 68 normal normal normal pink <3 seconds intermittent mild pain hypomotile slight slight none 5 increase nomal 39 5.3 serosanguinous 2.6 lived yes 7111 0 0 no
+yes adult 527563 37.8 52 24 normal reduced pale pink <3 seconds intermittent severe pain absent none slight <1 liter 5.7 increase distended large intestine 48 6.6 clear 3.7 died yes 5400 0 0 no
+yes adult 533696 38.7 60 32 cold reduced bright pink >3 seconds intermittent severe pain absent severe slight none 5 absent distended large intestine 53 64 serosanguinous 2 was euthanized yes 3205 0 0 no
+yes young 5297379 38.4 84 40 cool reduced bright pink <3 seconds intermittent mild pain hypomotile oderate none none 5 absent distended large intestine 36 6.6 cloudy 2.8 died yes 2205 0 0 yes
+yes adult 527544 38.1 70 16 cool absent bright red/injected >3 seconds depressed hypomotile slight slight none 5 absent distended large intestine 60 7.5 serosanguinous 2.6 died yes 2112 0 0 no
+yes adult 532349 38.4 44 24 cool normal pale cyanotic <3 seconds continuous severe pain absent oderate slight none 5 absent distended large intestine 50 77 serosanguinous 2.6 lived yes 3205 0 0 no
+yes adult 535208 38 44 12 normal normal normal pink <3 seconds intermittent mild pain hypomotile oderate slight none 5 absent distended large intestine 42 65 serosanguinous 2.6 lived yes 3205 3111 0 no
+no adult 5290482 39.5 64 28 cool reduced pale cyanotic >3 seconds intermittent mild pain absent oderate slight <1 liter 5.5 absent distended large intestine 46 6.7 clear 2.6 was euthanized yes 4205 0 0 no
+yes adult 533983 36.5 78 30 normal normal normal pink <3 seconds continuous severe pain hypomotile none slight none 5 absent distended large intestine 34 75 cloudy 1 lived yes 3112 6112 0 no
+no adult 535166 38.1 56 20 warm normal bright pink <3 seconds alert, no pain hypomotile none none none 5 absent distended large intestine 46 70 serosanguinous 2.6 lived no 0 0 0 no
+yes adult 528682 39.4 54 66 normal normal bright pink <3 seconds depressed hypomotile slight none none 5 reduced distended small intestine 39 6 cloudy 2.6 lived yes 2206 0 0 yes
+yes adult 534556 38.3 80 40 cool normal dark cyanotic >3 seconds intermittent severe pain hypomotile none slight >1 liter 5 normal distended small intestine 67 10.2 cloudy 1 was euthanized yes 2208 0 0 no
+no adult 534579 38.7 40 28 warm normal normal pink <3 seconds intermittent mild pain hypermotile none slight none 5 normal distended large intestine 39 62 clear 1 lived no 0 0 0 no
+yes adult 530360 38.2 64 24 normal normal pale pink <3 seconds intermittent severe pain absent oderate slight none 5 absent distended small intestine 45 7.5 clear 2 died yes 3205 0 0 yes
+no adult 529840 37.6 48 20 cool normal pale cyanotic <3 seconds alert, no pain hypermotile oderate slight none 5 normal nomal 37 5.5 serosanguinous 2.6 was euthanized yes 2205 0 0 no
+yes adult 528461 38 42 68 cold normal normal pink <3 seconds intermittent mild pain hypomotile slight slight >1 liter 5 absent distended small intestine 41 7.6 serosanguinous 2.6 lived yes 2205 0 0 no
+yes adult 5262541 37.4 50 32 cool reduced normal pink <3 seconds intermittent severe pain absent none slight none 5 normal distended large intestine 45 7.9 cloudy 1 lived yes 2208 0 0 yes
+no adult 530670 37.6 88 36 cool normal normal pink <3 seconds intermittent mild pain hypomotile slight none <1 liter 1.5 absent distended large intestine 44 6 serosanguinous 2.6 died yes 1400 0 0 no
+yes adult 534572 38 48 20 cool normal pale pink <3 seconds intermittent severe pain hypomotile none slight none 5 reduced distended large intestine 43 73 cloudy 1 lived yes 3111 0 0 no
+yes young 5287179 38.1 136 48 cool reduced pale pink <3 seconds continuous severe pain hypermotile oderate slight >1 liter 4.4 increase distended large intestine 33 4.9 cloudy 2.9 died yes 2205 0 0 yes
+no adult 532349 38 56 28 normal increase pale pink <3 seconds alert, no pain hypermotile none none none 5 normal nomal 42 71 serosanguinous 2.6 lived no 0 0 0 no
+no adult 534491 38 60 32 normal normal normal pink <3 seconds intermittent mild pain hypomotile none none none 5 absent distended large intestine 50 7 clear 1 lived no 0 0 0 no
+yes adult 529960 38.1 44 9 cool normal normal pink <3 seconds depressed normal none none none 5 absent distended large intestine 31 7.3 serosanguinous 2.6 lived no 5124 0 0 no
+yes adult 530402 38.1 120 28 cold reduced dark cyanotic >3 seconds continuous severe pain absent severe slight none 5 absent distended large intestine 57 4.5 serosanguinous 3.9 died yes 3205 0 0 yes
+yes adult 529424 37.8 48 28 normal normal normal pink >3 seconds alert, no pain normal none slight none 5 normal nomal 46 5.9 cloudy 7 lived no 0 0 0 yes
+yes adult 534519 37.1 84 40 cool reduced dark cyanotic <3 seconds depressed absent severe significant >1 liter 2 absent distended large intestine 75 81 serosanguinous 2.6 was euthanized no 1400 0 0 no
+no adult 535246 38.1 80 32 cool reduced bright pink <3 seconds depressed hypomotile oderate slight none 5 reduced distended large intestine 50 80 serosanguinous 2.6 lived yes 0 0 0 no
+yes adult 534115 38.2 48 28 normal reduced pale pink <3 seconds intermittent mild pain absent severe none <1 liter 2 absent distended large intestine 42 71 serosanguinous 2.6 lived yes 3111 0 0 no
+no adult 530001 38 44 12 warm normal pale pink <3 seconds intermittent mild pain absent oderate none >1 liter 6.5 normal distended small intestine 33 6.5 serosanguinous 2.6 died yes 2209 0 0 no
+yes adult 529272 38.3 132 28 cool reduced dark cyanotic >3 seconds depressed absent slight slight <1 liter 6.2 absent distended small intestine 57 8 serosanguinous 5.2 lived yes 2112 0 0 yes
+yes adult 529399 39.3 64 28 cold reduced dark cyanotic >3 seconds intermittent severe pain absent slight none <1 liter 4 absent distended small intestine 75 7.35 serosanguinous 4.3 died yes 2207 0 0 yes
+yes adult 533836 38.1 100 28 cool reduced pale cyanotic >3 seconds intermittent mild pain absent severe slight none 2 absent distended large intestine 68 64 serosanguinous 2 lived yes 2209 0 0 no
+no adult 528804 38.6 48 20 cool normal normal pink <3 seconds alert, no pain hypomotile slight slight none 5 reduced other 50 7.3 clear 2.6 lived no 3111 0 0 yes
+no adult 535163 38.8 48 40 normal normal pale pink <3 seconds intermittent mild pain hypomotile severe slight none 5 absent distended large intestine 41 65 serosanguinous 2.6 lived yes 4124 0 0 no
+no adult 528247 38 48 20 cool reduced pale cyanotic <3 seconds alert, no pain absent slight slight none 5 absent other 49 8.3 clear 2.6 lived no 400 0 0 yes
+no adult 528996 38.6 52 20 normal normal normal pink <3 seconds intermittent mild pain hypomotile slight none none 5 normal firm feces in the large intestine 36 6.6 clear 5 lived no 0 0 0 yes
+yes adult 533928 37.8 60 24 normal normal pale pink >3 seconds intermittent mild pain absent severe slight <1 liter 2 absent distended large intestine 52 75 serosanguinous 2.6 was euthanized yes 2205 0 0 no
+no adult 528134 38.1 64 12 normal normal bright pink <3 seconds depressed hypermotile slight significant none 5 normal firm feces in the large intestine 44 7.5 cloudy 2.6 lived no 0 0 0 yes
+no adult 535176 39.5 60 10 cool normal normal pink >3 seconds intermittent mild pain hypomotile slight slight none 5 reduced distended large intestine 38 56 clear 2.6 lived no 0 0 0 no
+yes adult 533942 38 66 20 normal reduced pale pink <3 seconds continuous severe pain hypomotile none none none 5 reduced distended large intestine 46 46 serosanguinous 2 was euthanized yes 6209 0 0 no
+yes adult 528523 38.7 76 28 normal normal bright red/injected >3 seconds intermittent mild pain hypomotile slight slight >1 liter 5 absent distended small intestine 50 8 serosanguinous 2.6 lived yes 2208 0 0 yes
+yes adult 527916 38.3 40 18 normal normal normal pink <3 seconds intermittent mild pain hypermotile none slight none 5 increase nomal 43 5.9 clear 2.6 lived no 0 0 0 yes
+yes adult 530254 38.4 104 40 normal normal pale pink <3 seconds depressed absent slight slight <1 liter 6.5 absent distended small intestine 55 8.5 serosanguinous 2.6 lived yes 2124 0 0 no
+no adult 527677 39 86 16 cool reduced bright red/injected <3 seconds intermittent mild pain hypomotile oderate slight >1 liter 5 absent distended large intestine 68 5.8 serosanguinous 6 died yes 5400 0 0 yes
+yes adult 535292 38.5 129 48 cool reduced pale pink <3 seconds depressed absent oderate none <1 liter 2 absent distended large intestine 57 66 serosanguinous 2 lived yes 2206 0 0 no
+yes adult 529729 38.1 104 28 cool reduced bright red/injected >3 seconds depressed absent oderate slight <1 liter 5 absent distended small intestine 69 8.6 cloudy 3.4 died yes 2207 0 0 yes
+yes adult 535130 38.2 60 30 normal normal pale pink <3 seconds intermittent mild pain hypomotile none slight none 5 reduced other 48 66 serosanguinous 2.6 lived yes 6112 0 0 no
+yes adult 533968 38.1 60 30 cool reduced pale cyanotic >3 seconds continuous severe pain absent severe none none 5 absent distended large intestine 45 70 serosanguinous 2 lived yes 6111 3111 0 no
+yes adult 530239 38.4 84 30 cool normal bright red/injected >3 seconds intermittent severe pain hypomotile oderate slight <1 liter 6.5 absent distended small intestine 47 7.5 serosanguinous 2.6 died yes 2300 0 0 no
+no adult 534857 37.8 56 16 normal normal bright pink <3 seconds depressed hypermotile none slight none 5 normal distended large intestine 44 68 clear 1 lived no 0 0 0 no
+no adult 534053 38.2 68 32 warm increase bright pink <3 seconds alert, no pain hypermotile none significant none 5 normal nomal 43 65 serosanguinous 2.6 lived no 0 0 0 no
+yes adult 527365 38.4 80 30 cold reduced normal pink <3 seconds intermittent mild pain hypomotile oderate significant <1 liter 5 absent distended large intestine 32 6.1 serosanguinous 4.3 lived yes 7209 0 0 yes
+yes adult 5299603 38.3 60 16 cool normal normal pink <3 seconds depressed hypermotile none slight >1 liter 3 normal distended small intestine 30 6 clear 3 lived yes 31110 0 0 no
+yes adult 528742 37.1 40 8 cool normal pale cyanotic <3 seconds intermittent mild pain hypomotile none none none 5 reduced firm feces in the large intestine 23 6.7 serosanguinous 2.6 lived yes 3133 0 0 yes
+yes adult 534788 38.2 48 18 normal normal normal pink <3 seconds intermittent mild pain hypomotile oderate none >1 liter 5 absent distended large intestine 48 74 clear 2 lived yes 5111 0 0 no
+no adult 534163 37.9 88 24 normal normal bright pink <3 seconds depressed normal none slight none 5 absent nomal 37 56 serosanguinous 2.6 lived no 0 0 0 no
+no adult 529628 38.5 60 20 normal normal bright red/injected >3 seconds depressed normal none slight none 5 increase firm feces in the large intestine 63 7.5 cloudy 2.3 was euthanized no 300 0 0 yes
+no adult 521399 38.5 96 36 cool reduced normal pink >3 seconds depressed absent slight none >1 liter 5 absent distended large intestine 70 8.5 serosanguinous 2.6 died yes 1400 0 0 yes
+no adult 534157 38.5 60 40 cool normal bright pink <3 seconds depressed hypermotile slight slight none 5 reduced other 49 59 serosanguinous 2.6 lived no 0 0 0 no
+yes adult 528047 37.3 48 12 normal normal pale pink <3 seconds intermittent mild pain hypermotile oderate slight none 5 reduced firm feces in the large intestine 40 6.6 cloudy 2.6 lived yes 3205 0 0 yes
+yes adult 528641 38.5 86 28 normal normal pale pink <3 seconds intermittent severe pain absent oderate slight none 5 reduced distended large intestine 45 7.4 clear 3.4 died yes 3209 0 0 yes
+no adult 529685 37.2 36 9 normal normal normal pink <3 seconds depressed hypomotile none slight none 5 absent nomal 35 5.7 serosanguinous 2.6 lived no 31110 0 0 no
+yes adult 529528 39.2 64 23 cool normal pale pink <3 seconds intermittent severe pain absent slight slight none 5 absent distended large intestine 36 6.6 clear 3 lived yes 3115 0 0 yes
+yes adult 535137 38.5 96 30 warm reduced pale cyanotic >3 seconds intermittent severe pain absent oderate slight none 5 reduced distended large intestine 50 65 serosanguinous 2.6 lived yes 6111 3112 0 no
+yes adult 535338 37.8 88 80 cool reduced bright red/injected >3 seconds intermittent mild pain hypomotile oderate slight <1 liter 5 absent distended large intestine 64 89 serosanguinous 2.6 was euthanized yes 3205 0 0 no
+no adult 534478 37.5 44 10 cool normal normal pink <3 seconds intermittent mild pain hypermotile slight slight none 5 reduced firm feces in the large intestine 43 51 clear 1 lived no 0 0 0 no
+yes adult 530401 37.9 68 20 cool normal bright pink <3 seconds depressed absent slight slight none 5 normal distended large intestine 45 4 serosanguinous 2.8 died yes 5400 0 0 yes
+yes adult 529893 38 86 24 cold reduced pale cyanotic <3 seconds depressed absent severe none none 5 absent distended large intestine 45 5.5 clear 10.1 died yes 3111 0 0 yes
+yes young 5294369 38.9 120 30 normal reduced bright pink >3 seconds intermittent mild pain hypomotile oderate significant none 3 absent distended large intestine 47 6.3 clear 2.6 lived no 2124 0 0 no
+yes adult 528183 37.6 45 12 cool normal pale pink <3 seconds intermittent mild pain normal slight slight none 5 normal distended small intestine 39 7 cloudy 1.5 lived yes 2112 0 0 yes
+no adult 529183 38.6 56 32 warm normal normal pink <3 seconds alert, no pain hypermotile none slight none 5 increase distended large intestine 40 7 cloudy 2.1 lived no 0 0 0 yes
+yes adult 529135 37.8 40 12 normal normal normal pink <3 seconds alert, no pain normal none slight none 5 normal other 38 7 serosanguinous 2.6 lived yes 3111 0 0 no
+yes adult 529736 38.1 52 28 cool reduced pale cyanotic <3 seconds intermittent mild pain absent oderate slight none 5 absent distended small intestine 37 8.1 serosanguinous 2.6 lived yes 2111 0 0 no
+yes adult 535031 38.5 92 40 cold reduced normal pink <3 seconds depressed absent oderate slight none 5 absent distended large intestine 46 67 cloudy 2 lived yes 2208 0 0 no
+yes adult 528800 38.1 112 13 cold absent pale cyanotic <3 seconds depressed hypomotile none slight none 4.5 absent distended small intestine 60 6.3 serosanguinous 2.6 lived yes 2205 0 0 yes
+yes adult 528178 37.7 66 12 normal normal pale pink <3 seconds intermittent mild pain hypomotile slight slight none 5 absent distended small intestine 31.5 6.2 cloudy 1.6 lived yes 2208 0 0 yes
+yes adult 535392 38.8 50 14 normal normal normal pink <3 seconds intermittent mild pain hypermotile none none none 5 reduced distended large intestine 38 58 serosanguinous 2.6 lived yes 3111 0 0 no
+no adult 528931 38.4 54 24 normal normal normal pink <3 seconds alert, no pain hypomotile none slight none 5 reduced other 49 7.2 clear 8 lived no 3111 0 0 yes
+yes adult 528503 39.2 120 20 cold reduced bright red/injected >3 seconds depressed hypomotile oderate none <1 liter 5 absent distended small intestine 60 8.8 serosanguinous 2.6 died yes 2205 0 0 no
+yes adult 535196 37.3 90 40 cool normal dark cyanotic >3 seconds continuous severe pain absent oderate slight >1 liter 5 normal distended large intestine 65 50 serosanguinous 2 was euthanized yes 3205 0 0 no
+no adult 530028 39.5 92 28 cool reduced dark cyanotic <3 seconds continuous severe pain absent none slight <1 liter 5 absent distended large intestine 72 6.4 serosanguinous 3.6 died no 3300 0 0 no
+yes adult 530526 38.3 72 30 cold reduced pale pink >3 seconds intermittent mild pain hypomotile oderate slight none 5 reduced distended large intestine 43 7 cloudy 3.9 lived yes 3113 0 0 yes
+no adult 528729 37.5 48 30 cold normal pale pink <3 seconds intermittent mild pain normal none none none 5 normal nomal 48 8.6 serosanguinous 2.6 lived no 400 0 0 no
+yes adult 528469 38.1 52 24 normal normal bright red/injected <3 seconds intermittent severe pain hypomotile none slight <1 liter 7 normal distended large intestine 54 7.5 cloudy 2.6 died yes 2206 0 0 yes
+no adult 533750 37.9 54 42 warm normal bright red/injected <3 seconds intermittent mild pain hypermotile none slight none 5 absent other 47 54 serosanguinous 1 lived no 0 0 0 no
+no adult 528702 36.1 88 28 cool reduced pale pink <3 seconds intermittent mild pain hypomotile slight slight <1 liter 5 absent distended small intestine 45 7 serosanguinous 4.8 was euthanized yes 2209 0 0 yes
+yes adult 529160 38 90 30 cold reduced pale cyanotic >3 seconds continuous severe pain absent severe slight none 5 absent distended large intestine 55 6.1 serosanguinous 2.6 died yes 3205 0 0 no
+yes adult 529045 38.2 52 16 normal normal bright pink <3 seconds alert, no pain normal none none none 5 normal distended large intestine 43 8.1 serosanguinous 2.6 lived no 0 0 0 yes
+yes adult 530354 38.1 36 32 normal normal pale cyanotic <3 seconds continuous severe pain hypomotile oderate slight <1 liter 4 absent distended small intestine 41 5.9 serosanguinous 2.6 died yes 2205 0 0 no
+yes adult 530366 37.6 68 32 cool normal pale pink <3 seconds intermittent severe pain normal severe slight >1 liter 6.5 normal distended large intestine 47 7.2 clear 2.6 lived yes 3209 0 0 no
+yes adult 530170 38.1 88 24 cool reduced pale cyanotic <3 seconds continuous severe pain absent oderate slight none 5 reduced distended small intestine 41 4.6 serosanguinous 2.6 died yes 2209 0 0 no
+yes adult 527709 38 108 60 warm reduced pale cyanotic <3 seconds intermittent severe pain hypomotile oderate slight none 5 reduced distended small intestine 46 7.35 serosanguinous 2.6 lived yes 2205 0 0 no
+yes adult 535043 39.3 100 51 cold absent dark cyanotic <3 seconds depressed absent none none <1 liter 2 absent distended small intestine 66 13 serosanguinous 2 was euthanized yes 2113 0 0 no
+no adult 527940 36.6 42 18 cool reduced bright pink <3 seconds alert, no pain absent none none none 5 absent distended large intestine 52 7.1 serosanguinous 2.6 died yes 5111 0 0 no
+yes young 5291719 38.8 124 36 cool normal bright pink <3 seconds depressed hypomotile severe none none 5 absent distended small intestine 50 7.6 serosanguinous 2.6 died yes 2208 0 0 yes
+no adult 530561 38.1 112 24 cool reduced pale cyanotic >3 seconds continuous severe pain absent slight slight none 5 absent distended large intestine 40 5.3 serosanguinous 2.6 lived no 400 0 0 yes
+yes adult 533871 37.5 72 28 warm normal normal pink <3 seconds depressed hypermotile none none none 5 normal distended large intestine 35 65 cloudy 2 was euthanized yes 7209 0 0 no
+no adult 534719 37.5 52 12 normal normal normal pink <3 seconds depressed hypomotile slight slight none 5 reduced distended large intestine 36 61 clear 1 lived no 0 0 0 no
+yes adult 527734 40.8 72 42 cool reduced normal pink <3 seconds depressed hypomotile none slight none 5 absent distended large intestine 54 7.4 serosanguinous 2.6 died yes 11400 0 0 yes
+no adult 534933 38 40 25 cool normal normal pink <3 seconds intermittent severe pain hypomotile slight none none 5 absent distended large intestine 37 69 serosanguinous 2.6 lived no 0 0 0 no
+no adult 529296 38.4 48 16 warm normal normal pink <3 seconds alert, no pain hypomotile slight slight none 5 absent other 39 6.5 serosanguinous 2.6 lived no 3111 0 0 yes
+yes adult 528743 37.1 75 36 cool normal pale pink >3 seconds intermittent severe pain absent slight slight <1 liter 5 absent distended small intestine 48 7.4 serosanguinous 3.2 died yes 12208 0 0 yes
+yes adult 530478 38.3 44 21 cool normal bright pink <3 seconds intermittent mild pain hypomotile oderate slight none 5 normal distended large intestine 44 6.5 cloudy 4.4 lived yes 2209 0 0 yes
+no adult 528590 38.1 56 68 cool normal normal pink <3 seconds intermittent mild pain hypomotile none slight none 5 normal distended large intestine 40 6 serosanguinous 2.6 was euthanized yes 5206 0 0 no
+no adult 529865 38.6 68 20 warm normal pale pink <3 seconds intermittent mild pain hypomotile slight none none 5 normal distended large intestine 38 6.5 clear 2.6 lived no 5124 0 0 yes
+no adult 527829 38.3 54 18 cool normal bright pink <3 seconds depressed hypomotile slight slight <1 liter 5.4 absent distended small intestine 44 7.2 serosanguinous 2.6 lived no 2124 0 0 yes
+yes adult 527883 39.3 64 90 warm reduced normal pink <3 seconds intermittent mild pain hypomotile none none >1 liter 6.5 normal distended large intestine 39 6.7 serosanguinous 2.6 lived yes 31110 0 0 no
+yes adult 528570 37.5 60 50 cool reduced normal pink <3 seconds intermittent mild pain hypomotile slight slight >1 liter 3.5 reduced distended small intestine 35 6.5 serosanguinous 2.6 died yes 2209 0 0 no
+yes adult 534626 37.7 80 28 cool reduced dark cyanotic <3 seconds continuous severe pain absent none slight <1 liter 5 reduced nomal 50 55 serosanguinous 2 lived yes 4206 0 0 no
+yes adult 529796 38.1 100 30 cool reduced pale cyanotic >3 seconds continuous severe pain absent severe significant <1 liter 5 absent distended small intestine 52 6.6 serosanguinous 2.6 lived yes 2124 0 0 no
+yes adult 528638 37.7 120 28 cool reduced pale pink <3 seconds continuous severe pain hypomotile oderate none none 5 absent distended large intestine 65 7 serosanguinous 2.6 died yes 4205 0 0 yes
+yes young 5297159 38.8 150 50 normal reduced dark cyanotic >3 seconds continuous severe pain hypomotile slight none none 5 absent distended large intestine 50 6.2 serosanguinous 2.6 died yes 4207 0 0 no
+yes adult 534787 38 36 16 cool normal normal pink <3 seconds intermittent severe pain normal slight significant <1 liter 2 reduced distended large intestine 37 75 cloudy 1 was euthanized no 3111 0 0 no
+no adult 528620 36.9 50 40 warm reduced pale pink <3 seconds alert, no pain hypomotile slight significant none 7 absent distended large intestine 37.5 6.5 serosanguinous 2.6 lived no 3111 0 0 no
+no adult 528019 37.8 40 16 normal normal normal pink <3 seconds alert, no pain hypermotile none slight none 5 normal nomal 37 6.8 serosanguinous 2.6 lived no 0 0 0 no
+no adult 529172 38.2 56 40 cold reduced normal pink <3 seconds depressed absent oderate slight >1 liter 7.5 absent distended large intestine 47 7.2 clear 2.5 lived no 8300 0 0 yes
+no adult 530624 40 78 28 cool reduced bright red/injected <3 seconds depressed hypomotile none none none 5 absent nomal 66 6.5 serosanguinous 2.6 died yes 8400 0 0 yes
+yes adult 527544 38.1 70 16 cool absent bright red/injected >3 seconds depressed hypomotile slight slight none 5 absent distended large intestine 60 7.5 serosanguinous 2.6 died yes 1400 0 0 no
+no adult 530439 38.5 54 28 normal normal normal pink <3 seconds intermittent mild pain hypermotile none slight none 5 normal distended large intestine 40 6.8 cloudy 7 lived no 0 0 0 yes
+yes adult 5283431 38.5 66 24 normal normal normal pink <3 seconds intermittent mild pain hypomotile none slight none 5 absent distended large intestine 40 6.7 clear 2.6 lived yes 31110 0 0 yes
+yes adult 529126 38 50 36 cool normal normal pink <3 seconds intermittent mild pain normal slight slight none 5 reduced distended large intestine 39 6.6 clear 5.3 lived yes 8400 0 0 yes
+yes adult 528890 38.9 80 44 cool reduced pale pink <3 seconds depressed hypomotile oderate slight >1 liter 7 reduced nomal 54 6.5 serosanguinous 2.6 died yes 7111 0 0 no
+yes adult 530034 37 66 20 normal reduced bright pink <3 seconds intermittent severe pain hypomotile oderate none none 5 normal distended large intestine 35 6.9 cloudy 2.6 died yes 31110 0 0 no
+no adult 533902 38.5 40 16 normal normal normal pink <3 seconds depressed hypermotile none slight none 5 reduced other 37 67 serosanguinous 2.6 lived no 0 0 0 no
+no adult 527702 37.2 72 24 cool increase pale cyanotic >3 seconds intermittent severe pain hypomotile oderate significant none 5 absent distended small intestine 44 7.35 serosanguinous 3.3 was euthanized yes 2208 0 0 yes
+yes adult 529386 37.5 72 30 cold reduced pale cyanotic <3 seconds intermittent severe pain absent oderate slight none 5 reduced distended large intestine 60 6.8 serosanguinous 2.6 died yes 3205 0 0 no
+yes adult 530612 36.5 100 24 cool reduced pale pink <3 seconds intermittent mild pain hypomotile oderate significant none 5 absent distended small intestine 50 6 serosanguinous 3.4 lived yes 2208 0 0 yes
